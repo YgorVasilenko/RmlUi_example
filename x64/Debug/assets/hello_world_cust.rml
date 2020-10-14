@@ -1,0 +1,25 @@
+<rml>
+<head>
+	<title>Hello world</title>
+	<link type="text/template" href="window.rml" />
+	<style>
+		body
+		{
+			width: 200px;
+			height: 100px;
+			margin: auto;
+		}
+	</style>
+</head>
+<body template="window">
+	<form action="/action_page.php">
+		<div>
+			<input id="text_input" type="text" name="name" value="some text">
+			<button onclick="load game">Start Game</button>
+		</div>
+	</form>
+<div id="log">
+	Hello world! This is sparta
+</div>
+</body>
+</rml>

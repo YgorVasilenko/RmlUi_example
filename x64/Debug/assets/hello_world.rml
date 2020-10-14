@@ -1,0 +1,17 @@
+<rml>
+<head>
+	<title>Hello world</title>
+	<link type="text/template" href="window.rml" />
+	<style>
+		body
+		{
+			width: 200px;
+			height: 100px;
+			margin: auto;
+		}
+	</style>
+</head>
+<body template="window">
+	Hello world!
+</body>
+</rml>

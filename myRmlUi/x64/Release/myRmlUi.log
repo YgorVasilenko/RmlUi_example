@@ -1,0 +1,12 @@
+﻿  testRmlUi.cpp
+C:\Users\vasilenk\source\repos\myRmlUi\myRmlUi\Shader.h(49): warning C4101: 'e': unreferenced local variable
+C:\Users\vasilenk\source\repos\myRmlUi\myRmlUi\myRenderInterface.h(96): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vasilenk\source\repos\myRmlUi\myRmlUi\testRmlUi.cpp(7): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\vasilenk\source\repos\myRmlUi\myRmlUi\testRmlUi.cpp(52): warning C4101: 'Passed': unreferenced local variable
+C:\Users\vasilenk\source\repos\myRmlUi\myRmlUi\testRmlUi.cpp(51): warning C4101: 'curr': unreferenced local variable
+  Generating code
+  1 of 301 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    8 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  myRmlUi.vcxproj -> C:\Users\vasilenk\source\repos\myRmlUi\x64\Release\myRmlUi.exe

@@ -1,0 +1,10 @@
+<template name="window" content="content">
+<head>
+	<link type="text/rcss" href="invader.rcss"/>
+	<link type="text/rcss" href="window.rcss"/>
+</head>
+<body>
+	<div id="title_header">RmlUi</div>
+	<div id="content"/>
+</body>
+</template>
